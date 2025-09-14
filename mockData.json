@@ -1,0 +1,118 @@
+[
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "image": null,
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 1,
+    "name": "Kadhai Paneer 1"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Paneer cubes in spicy onion gravy.",
+    "image": null,
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 2,
+    "name": "Kadhai Paneer 2"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "STARTER",
+    "type": "NON_VEG",
+    "description": "Crispy chicken starters.",
+    "image": null,
+    "category": {
+      "id": 2,
+      "name": "Starters",
+      "image": ""
+    },
+    "dishType": "FRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 101,
+    "name": "Crispy Chicken"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Sweet gulab jamun.",
+    "image": null,
+    "category": {
+      "id": 3,
+      "name": "Dessert",
+      "image": ""
+    },
+    "dishType": "SWEET",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 201,
+    "name": "Gulab Jamun"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "SIDES",
+    "type": "VEG",
+    "description": "Raita to go with main course.",
+    "image": null,
+    "category": {
+      "id": 4,
+      "name": "Sides",
+      "image": ""
+    },
+    "dishType": "SIDES",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 301,
+    "name": "Boondi Raita"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "STARTER",
+    "type": "VEG",
+    "description": "Paneer tikka.",
+    "image": null,
+    "category": {
+      "id": 2,
+      "name": "Starters",
+      "image": ""
+    },
+    "dishType": "GRILL",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 102,
+    "name": "Paneer Tikka"
+  }
+]
